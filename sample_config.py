@@ -17,4 +17,4 @@ if not HEROKU:
     LANGUAGE = "en"
 
 # Leave it as it is
-ARQ_API_BASE_URL = "https://arq.hamker.in"
+ARQ_API_BASE_URL = "https://github.com/decentboyy"
