@@ -18,7 +18,6 @@ $ sudo apt-get update && sudo apt-get upgrade -y
 $ sudo apt-get install python3-pip -y
 $ sudo pip3 install -U pip
 $ git clone https://github.com/decentboyy/Luna_chatbot && cd Luna_ChatBot 
-$ pip3 install --upgrade pip setuptools
 $ pip3 install -U -r requirements.txt
 $ nano config.py
 ```
