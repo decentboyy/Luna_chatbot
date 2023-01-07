@@ -54,7 +54,7 @@ async def type_and_send(message):
 async def repo(_, message):
     await message.reply_text(
         "[GitHub](https://github.com/thehamkercat/LunaChatBot)"
-        + " | [Group](t.me/PatheticProgrammers)",
+        + " | [Group](t.me/Heck_Tech)",
         disable_web_page_preview=True,
     )
 
